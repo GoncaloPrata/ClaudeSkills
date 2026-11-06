@@ -36,6 +36,7 @@
 - Readable, explicit code over clever one-liners.
 - User-facing error handling — never fail silently.
 - For anything more specific (logging vs print, secrets handling, project structure, git/README workflow, UI language) — see the `build-conventions` skill, which scales these by whether it's a quick script, POC, or framework.
+- For design docs, ADRs, framework READMEs, and non-technical usage guides — see the `design-docs` skill, which covers structure and bilingual (English/Portuguese) output.
 
 ---
 
