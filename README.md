@@ -22,4 +22,4 @@ Each skill folder here is the single source of truth. It's symlinked from `~/.cl
 
 ## Other files
 
-- **CLAUDE.template.md** — a sanitized starting point for Claude Code's global `CLAUDE.md`, with the identifying bio details and local paths blanked out. The real `CLAUDE.md` stays local-only (not in this repo, not symlinked) since it has personal details this repo doesn't need to carry. On a new machine: copy this to `~/.claude/CLAUDE.md`, fill in the "About" section, and adjust the Obsidian vault path.
+- **CLAUDE.template.md** — a sanitized starting point for Claude Code's global `CLAUDE.md`, with the identifying bio details blanked out. The real `CLAUDE.md` stays local-only (not in this repo, not symlinked) since it has personal details this repo doesn't need to carry. On a new machine: copy this to `~/.claude/CLAUDE.md` and fill in the "About" section.
