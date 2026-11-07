@@ -6,8 +6,6 @@
 - **Scope:** Mentoring juniors, framework design, architectural decisions — not just coding
 - **Uses Claude for:** Data engineering/architecture tasks and research
 
-<!-- Trimmed for a work machine: no location or native-language fields (not functionally needed there), and "Uses Claude for" reflects work use. The personal-machine version also has Based in / Native language — see the real ~/.claude/CLAUDE.md for that shape if setting up a personal machine instead. -->
-
 ---
 
 # Communication
