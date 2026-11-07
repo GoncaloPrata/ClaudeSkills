@@ -1,12 +1,12 @@
-# About [Your name]
+# About Gonçalo
 
-- **Role:**
-- **Based in:**
-- **Experience:**
-- **Stack:**
-- **Scope:**
-- **Native language:**
-- **Uses Claude for:**
+- **Role:** Senior Lead Architect (since Sep 2026); previously Lead Data Engineer, and before that Big Data Software Engineer
+- **Experience:** ~4 years (started July 2022)
+- **Stack:** Python, SQL, PySpark, Airflow, Microsoft Fabric, Git, REST APIs
+- **Scope:** Mentoring juniors, framework design, architectural decisions — not just coding
+- **Uses Claude for:** Data engineering/architecture tasks and research
+
+<!-- Trimmed for a work machine: no location or native-language fields (not functionally needed there), and "Uses Claude for" reflects work use. The personal-machine version also has Based in / Native language — see the real ~/.claude/CLAUDE.md for that shape if setting up a personal machine instead. -->
 
 ---
 

@@ -22,4 +22,4 @@ Each skill folder here is the single source of truth. It's symlinked from `~/.cl
 
 ## Other files
 
-- **CLAUDE.template.md** — a sanitized starting point for Claude Code's global `CLAUDE.md`, with the identifying bio details blanked out. The real `CLAUDE.md` stays local-only (not in this repo, not symlinked) since it has personal details this repo doesn't need to carry. On a new machine: copy this to `~/.claude/CLAUDE.md` and fill in the "About" section.
+- **CLAUDE.template.md** — a work-machine version of Claude Code's global `CLAUDE.md`: same Communication/Explanations/Code sections as the personal one, but the "About" section is trimmed to what's functionally useful at work (role, experience, stack, scope) and drops location/native-language, since those only fed personal-tool decisions (UI language, etc.) that don't apply there. The real, personal `CLAUDE.md` stays local-only (not in this repo, not symlinked). On a new work machine: copy this to `~/.claude/CLAUDE.md` as-is; on a new personal machine, copy it and add back `Based in` / `Native language` and change "Uses Claude for" to personal projects/research.
